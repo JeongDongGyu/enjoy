@@ -1,0 +1,7 @@
+public class donggyu {
+    String name;
+    int age;
+    public String callName(){
+        return name;
+    }
+}
