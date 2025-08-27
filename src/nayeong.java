@@ -1,5 +1,7 @@
 public class nayeong {
-    public static void main(String[] args) {
-        System.out.println("ㅋㅋㅋㅋ");
+    String name;
+    int age;
+    public String callName(){
+        return name;
     }
 }
